@@ -1,0 +1,8 @@
+Origin: s0ra
+Label: s0ra
+Suite: stable
+Version: 1.0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repo from s0ra.
