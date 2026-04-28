@@ -3,21 +3,6 @@ A Cydia repository template. This template contains sample on how you can easily
 
 Most data for this repo is stored on XML files and are loaded on the depiction page dynamically. See the guide below on how to set it up. Note that this guide doesn't cover creating .deb files but will briefly cover assiging depictions.
 
-## How to use this template
-
-### 1. Download
-
-If you are *not* hosting your repo on [Github Pages](https://pages.github.com/), you can download the zip file [here](https://github.com/supermamon/Reposi3/archive/master.zip) and extract to a subfolder on your website.
-
-There are 2 options for those using [Github Pages](https://pages.github.com/).
-
-A. If you want to use your root `username.github.io` as your repo, fork this repo and rename it to `username.github.io`. So when adding it in Cydia, use `https://username.github.io`.
-
-B. If you want to use a subfolder for your existing `username.github.io` as your repo (example `username.github.io/repo`), fork this repo and rename it to `repo`. So when adding it in Cydia, use `https://username.github.io/repo`.
-
-You can change `repo` to anything you want, like `cydia` for example. So your repo url would be `https://username.github.io/cydia`.
-
-
 #### 2. Personalize
 
 **Release File**
